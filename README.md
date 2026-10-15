@@ -1,10 +1,20 @@
-# 🚗 Yto Car — Sistema de Locação de Veículos & Analytics
+# 🚗 Yto Car — Modelagem de Requisitos & Dashboard Gerencial/Preditivo de Locadora de Veículos
 
-Este projeto foi desenvolvido como um estudo de caso prático / projeto acadêmico durante o curso de [Nome do Curso ou Instituição], com o objetivo de aplicar conceitos de Engenharia de Requisitos, Modelagem UML e Visualização de Dados / BI.
+Projeto prático integrando Engenharia de Requisitos (UML) e Business Intelligence (Power BI) para gestão operacional e análise preditiva de uma locadora de veículos.
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![UML](https://img.shields.io/badge/UML-Modelagem-blue?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-Business_Intelligence-green?style=for-the-badge)
+## Visão Geral Detalhada:
+
+Este projeto apresenta uma solução end-to-end para a gestão de uma locadora de veículos (Yto Car), combinando a modelagem de requisitos de software na origem dos dados com a análise avançada de dados e inteligência gerencial.
+
+A solução é dividida em dois pilares principais:
+
+## Engenharia de Requisitos & Modelagem UML: 
+Mapeamento do minimundo operacional, especificação formal de Casos de Uso (padrão Bezerra, 2015) e definição das regras de negócio (controle de locação por funcionário, limites por cliente, cadastro por categoria e prorrogação remota).
+
+## Business Intelligence & Análise Preditiva (Power BI): 
+Construção de dashboards interativos alimentados pelos dados transacionais do sistema, cobrindo acompanhamento financeiro, comportamento de consumo, perfil de clientes, controle da frota por categorias e modelagem de séries temporais para previsão de faturamento futuro.   
+
+## Nota: Projeto desenvolvido como estudo de caso prático para consolidação de conceitos em Análise de Dados e Engenharia de Software.
 
 ## 📌 Visão Geral do Projeto
 Este projeto une **Engenharia de Software (Modelagem de Requisitos com UML)** e **Business Intelligence / Data Analytics**. A solução aborda desde o levantamento das regras de negócio do minimundo operacional de uma locadora de veículos até a construção de dashboards interativos e análises preditivas para tomada de decisão gerencial.
